@@ -102,3 +102,5 @@ npm run test:umami
 # tests against the default profile data
 npm run test:default
 ```
+
+Test update
